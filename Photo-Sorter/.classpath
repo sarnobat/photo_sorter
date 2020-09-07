@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/commons-configuration-1.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-configuration-1.8-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-configuration-1.8.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4-tests.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.1-tests.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-adapters-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-tests.jar"/>
+	<classpathentry kind="lib" path="lib/guava-12.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/org.apache.pivot.eclipse_2.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/pivot-charts-2.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/pivot-core-2.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/pivot-web-2.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/pivot-web-server-2.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/pivot-wtk-2.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/pivot-wtk-terra-2.0.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/mockito-all-1.9.0.jar"/>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

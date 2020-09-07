@@ -1,0 +1,12 @@
+3=trash
+A=non-acquaintances
+C=cats
+M=small
+N=not good
+O=no people
+P=no people
+S=Sridhar
+B=books
+Q=bad quality
+R=products and services
+

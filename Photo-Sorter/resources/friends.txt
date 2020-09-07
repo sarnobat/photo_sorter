@@ -1,0 +1,26 @@
+3=trash
+A=back
+B=btt
+C=wrong category
+E=neck
+#F=face
+#F=favorites
+F=friends
+G=too_big_for_photosorter
+H=hair
+I=ind
+K=kids
+L=legs
+M=arm
+#M=misc
+N=not good
+O=earrings
+P=hips
+R=relatives
+S=waist
+T=teen
+V=navel
+W=white
+X=spandex
+# mouth
+U=lips

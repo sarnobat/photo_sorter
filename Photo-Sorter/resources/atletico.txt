@@ -1,0 +1,10 @@
+A=Map
+R=after renovation
+B=before renovation
+9=90s
+P=Peineta
+M=Metropolitano
+N=trash
+O=Camp O'Donnell
+T=Time Lapse
+K=Comparisons
