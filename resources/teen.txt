@@ -1,0 +1,43 @@
+3=trash
+A=back
+B=btt
+C=wrong category
+E=neck
+#E=cheerleader
+F=face
+#F=favorites
+G=vg
+#G=too_big_for_photosorter
+#H=hair
+#I=ind
+I=too_big_for_photosorter
+K=bikini
+L=legs
+#M=misc
+#M=arm
+N=not good
+O=earrings
+P=hips
+#P=lips
+#P=sports
+R=brst
+#S=school
+S=sports
+#S=soccer
+#T=teen
+#T=topless
+T=tennis
+V=navel
+#W=wwe
+W=waist
+X=spandex
+# mouth
+U=lips
+
+H=high
+M=middle
+#Y=young
+
+#S=small
+
+1=wwe
