@@ -1,9 +1,0 @@
-I=ind
-K=Kim Kardashian
-B=Beyonce
-J=Jennifer Lopez
-M=Maria Menunous
-W=wwe
-X=spandex
-C=wrong category
-T=teen
